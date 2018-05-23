@@ -1,7 +1,7 @@
 {
   "name": "wp-db-switch",
   "main": "./lib/wp-db-switch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Handles swapping out currently active database name value",
   "keywords": [],
   "activationCommands": {
