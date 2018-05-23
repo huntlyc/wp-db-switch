@@ -1,0 +1,20 @@
+{
+  "name": "wp-db-switch",
+  "main": "./lib/wp-db-switch",
+  "version": "0.0.0",
+  "description": "Handles swapping out currently active database name value",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "wp-db-switch:toggle"
+  },
+  "repository": "https://github.com/huntlyc/wp-db-switch",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "atom-space-pen-views": "^2.0.3",
+    "fs-plus": "^3.0.0"
+  }
+}

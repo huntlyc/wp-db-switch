@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "WordPress DB Switch",
+          "submenu": [
+            {
+              "label": "Switch WP Database",
+              "command": "wp-db-switch:switch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
