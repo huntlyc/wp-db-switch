@@ -14,7 +14,7 @@ Choose which one you want and it'll re-write the config file with that active.
 
 For example, say, in your config file you have the following:
 
-```
+```php
 
 // ...other WP stuff
 
@@ -28,7 +28,7 @@ define('DB_NAME', 'db1'); //My first Database!!
 
 Press `Ctrl+Alt+w` select db3 and the config file will change to:
 
-```
+```php
 // ...other WP stuff
 
 
