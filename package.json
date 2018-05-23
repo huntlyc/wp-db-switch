@@ -1,10 +1,9 @@
 {
   "name": "wp-db-switch",
   "main": "./lib/wp-db-switch",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Handles swapping out currently active database name value",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "wp-db-switch:toggle"
   },
